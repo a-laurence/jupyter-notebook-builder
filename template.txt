@@ -1,0 +1,6 @@
+*-  # *This is an auto-generated jupyter notebook template.*
+*-
+"This is a Notebook Template"
+*-
+*-
+print("Hello World")

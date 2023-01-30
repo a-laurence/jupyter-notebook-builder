@@ -9,6 +9,7 @@ black = "*"
 install = "*"
 ipython = "*"
 jupyterlab = "*"
+pathlib = "*"
 
 [dev-packages]
 pre-commit = "*"
