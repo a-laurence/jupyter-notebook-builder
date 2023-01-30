@@ -4,11 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pre-commit = "*"
-jupyter = "*"
-jupyter-notebook-builder = {path = "."}
+requests = "*"
+black = "*"
+install = "*"
+ipython = "*"
+jupyterlab = "*"
 
 [dev-packages]
+pre-commit = "*"
 
 [requires]
 python_version = "3.9"
